@@ -18,5 +18,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Digowmarins&layout=compact)
 </div>
 
-
-I'm Still Standing
